@@ -3,7 +3,7 @@ window.onload = function(){
             // Introduction Video
 
             var iframe = document.getElementById('test_iframe');
-            var html_string = '<html><head></head><body><div style="position:relative; padding-bottom:56.25%; overflow:hidden;"><iframe src="//content.jwplatform.com/players/JocLyJgy-H6ePhpfv.html" width="100%" height="100%" frameborder="0" scrolling="auto" allowfullscreen style="position:absolute;"></iframe></div></body></html>';
+            var html_string = '<html><head></head><body><div style="position:relative; padding-bottom:56.25%; overflow:hidden;"><iframe src="//content.jwplatform.com/players/wfVtKD9W-H6ePhpfv.html" width="100%" height="100%" frameborder="0" scrolling="auto" allowfullscreen style="position:absolute;"></iframe></div></body></html>';
 
 
             var iframedoc = iframe.document;
@@ -29,7 +29,7 @@ window.onload = function(){
         function injectHTML1(){
 
             var iframe = document.getElementById('test_iframe');
-            var html_string = '<html><head></head><body><div style="position:relative; padding-bottom:56.25%; overflow:hidden;"><iframe src="//content.jwplatform.com/players/TnfSheNM-H6ePhpfv.html" width="100%" height="100%" frameborder="0" scrolling="auto" allowfullscreen style="position:absolute;"></iframe></div></body></html>';
+            var html_string = '<html><head></head><body><div style="position:relative; padding-bottom:56.25%; overflow:hidden;"><iframe src="//content.jwplatform.com/players/93RWNL5v-H6ePhpfv.html" width="100%" height="100%" frameborder="0" scrolling="auto" allowfullscreen style="position:absolute;"></iframe></div></body></html>';
 
 
             var iframedoc = iframe.document;
@@ -55,7 +55,7 @@ window.onload = function(){
         function injectHTML2(){
 
             var iframe = document.getElementById('test_iframe');
-            var html_string = '<html><head></head><body><div style="position:relative; padding-bottom:56.25%; overflow:hidden;"><iframe src="//content.jwplatform.com/players/kXpH1zmm-H6ePhpfv.html" width="100%" height="100%" frameborder="0" scrolling="auto" allowfullscreen style="position:absolute;"></iframe></div></body></html>';
+            var html_string = '<html><head></head><body><div style="position:relative; padding-bottom:56.25%; overflow:hidden;"><iframe src="//content.jwplatform.com/players/XOF11YZo-H6ePhpfv.html" width="100%" height="100%" frameborder="0" scrolling="auto" allowfullscreen style="position:absolute;"></iframe></div></body></html>';
 
 
             var iframedoc = iframe.document;
@@ -81,7 +81,7 @@ window.onload = function(){
         function injectHTML3(){
 
             var iframe = document.getElementById('test_iframe');
-            var html_string = '<html><head></head><body><div style="position:relative; padding-bottom:56.25%; overflow:hidden;"><iframe src="//content.jwplatform.com/players/2qyP34Ws-H6ePhpfv.html" width="100%" height="100%" frameborder="0" scrolling="auto" allowfullscreen style="position:absolute;"></iframe></div></body></html>';
+            var html_string = '<html><head></head><body><div style="position:relative; padding-bottom:56.25%; overflow:hidden;"><iframe src="//content.jwplatform.com/players/kNU1T1Hx-H6ePhpfv.html" width="100%" height="100%" frameborder="0" scrolling="auto" allowfullscreen style="position:absolute;"></iframe></div></body></html>';
 
 
             var iframedoc = iframe.document;
